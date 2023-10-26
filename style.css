@@ -13,3 +13,10 @@ p{
     font-size: 30px;
     text-align: justify;
 }
+
+img {
+    padding-top: 30px;
+    width: 368px;
+    height: 211px;
+    border-radius: 40px;
+}
