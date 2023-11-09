@@ -4,7 +4,6 @@ body {
 
 
 h1 {
-    position: relative;
     color: #677b3e;
     font-size: 50px;
     text-align: center;
@@ -17,8 +16,6 @@ p{
 }
 
 .logo {
-    display: flex;
-    position: relative;
     width: 200px;
     height: 200px; 
     margin: 2px; /*insere um espaçamento externo ao elemento, ao redor da borda*/
