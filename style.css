@@ -17,6 +17,7 @@ p{
 
 .logo {
     display: flex;
+    position: relative;
     width: 200px;
     height: 200px; 
     margin: 2px; /*insere um espaçamento externo ao elemento, ao redor da borda*/
