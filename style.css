@@ -3,6 +3,11 @@ body {
     background-image: linear-gradient(#FFFFFF, #b7bcb9, #677b3e);     
 }
 
+header {
+    background-color: #b7bcb9;
+    border-bottom: 2px solid #677b3e;
+}
+
 
 h1 {
     color: #677b3e;
@@ -11,7 +16,7 @@ h1 {
 }
 
 h2 {
-    color: white;
+    color: ;
     font-size: 35px;
     text-align: center;
 }
@@ -36,6 +41,5 @@ p{
     height: 300px;
     margin: 10px;
     padding: 3px; 
-    border: 0.5rem solid #2c3546;
     border-radius: 24px;   
 }
