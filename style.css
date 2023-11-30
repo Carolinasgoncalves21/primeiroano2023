@@ -54,4 +54,5 @@ p{
 
 .item-lista{
     display: inline-block;
+    justify-content: space-around;
 }
