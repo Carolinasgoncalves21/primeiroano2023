@@ -51,3 +51,7 @@ p{
     color: white;
     list-style: none;
 }
+
+.item-lista{
+    display: inline-block;
+}
